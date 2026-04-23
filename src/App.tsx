@@ -209,7 +209,7 @@ export default function App() {
               という方も、LINEからお気軽にご相談ください！
             </p>
             <a 
-              href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=BZZmVJ&liff_id=1656783300-KLG90La1"
+              href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=DAX3HN&liff_id=1656783300-KLG90La1"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex w-full md:w-auto items-center justify-center bg-[#ffea00] text-[#0d4f7a] text-lg font-bold py-5 px-8 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
